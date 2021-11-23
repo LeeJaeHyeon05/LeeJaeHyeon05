@@ -12,6 +12,7 @@
 
 ### 👋 안녕하세요! 
 저는 앱 개발을 하고 있는 이재현이라고 합니다. 
+  
 Hello! My name is Jaehyeon  Lee and I'm android app developer 📱
 
 ---
@@ -20,6 +21,8 @@ Hello! My name is Jaehyeon  Lee and I'm android app developer 📱
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> 
+  
+ ---
 
 
 
