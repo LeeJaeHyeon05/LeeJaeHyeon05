@@ -24,7 +24,8 @@ Hello! My name is Jaehyeon  Lee and I'm android app developer 📱
   
  ---
 
-
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=LeeJaeHyeon05&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJaeHyeon05&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/LeeJaeHyeon05)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJaeHyeon05&show_icons=true&theme=tokyonight)
 
