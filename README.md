@@ -1,7 +1,14 @@
 ### Contact Me 
-<img src="https://img.shields.io/badge/jaehyeon0825@gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/jaehyeon_0825-E4405F?style=flat-square&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/이재현-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+<a href="http://www.gmail.com">
+  <img src="https://img.shields.io/badge/jaehyeon0825@gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
+  
+<a href="https://www.instagram.com/jaehyeon_0825/?hl=ko">
+ <img src="https://img.shields.io/badge/jaehyeon_0825-E4405F?style=flat-square&logo=instagram&logoColor=white"/> 
+  
+  <img src="https://img.shields.io/badge/이재현-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 
 ---
+
 
 ### 👋 안녕하세요! 
 저는 앱 개발을 하고 있는 이재현이라고 합니다. 
