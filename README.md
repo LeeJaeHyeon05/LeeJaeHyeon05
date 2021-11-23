@@ -1,4 +1,22 @@
-### Hi there 👋
+### Contact Me 
+<img src="https://img.shields.io/badge/jaehyeon0825@gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/jaehyeon_0825-E4405F?style=flat-square&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/이재현-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+
+---
+
+### 👋 안녕하세요! 
+저는 앱 개발을 하고 있는 이재현이라고 합니다. 
+Hello! My name is Jaehyeon  Lee and I'm android app developer 📱
+
+---
+
+### 스킬(SKills) 💪
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> 
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJaeHyeon05&show_icons=true&theme=tokyonight)
 
 <!--
 **LeeJaeHyeon05/LeeJaeHyeon05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
