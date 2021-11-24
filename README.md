@@ -5,7 +5,6 @@
 <a href="https://www.instagram.com/jaehyeon_0825/?hl=ko">
  <img src="https://img.shields.io/badge/jaehyeon_0825-E4405F?style=flat-square&logo=instagram&logoColor=white"/> 
   
-  <img src="https://img.shields.io/badge/이재현-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 
 ---
 
