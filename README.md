@@ -2,9 +2,7 @@
 <a href="http://www.gmail.com">
   <img src="https://img.shields.io/badge/jaehyeon0825@gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
   
-<a href="https://www.instagram.com/jaehyeon_0825/?hl=ko">
- <img src="https://img.shields.io/badge/jaehyeon_0825-E4405F?style=flat-square&logo=instagram&logoColor=white"/> 
-  
+
 
 ---
 
