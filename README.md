@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jae Hyeon</h1>
 <h3 align="center">Versatility Web/App developer</h3>
 
-- 🔭 I’m currently working on : **"Who Are You"** and **"각폭"**
+- 🔭 I’m currently working on : **"Who Are You"**
 
 - 🌱 I’m currently learning : **Web (front)**
 
