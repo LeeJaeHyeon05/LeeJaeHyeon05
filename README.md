@@ -1,9 +1,7 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=이재현&fontSize=90" />-->
 
 ### 👋 Hi! 
-HOPE TO BE A ANDROID DEVELOPER. 
-Hello! My name is Jaehyeon  Lee and I'm android app developer 📱
-
+Hoope to bee ANDROID DEVELOPER. 
 ---
 
 ### 💪 Skills
